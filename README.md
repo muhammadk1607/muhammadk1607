@@ -1,5 +1,5 @@
 # Introduction
-My name is Muhammad Khan. I am a Programmer, Full-Stack developer, and Android developer, currently studying for a Software Engineering degree from Virtual University.
+My name is Muhammad Khan. I am a Full-Stack developer and Mobile developer, currently studying for a Software Engineering degree from Virtual University.
 
 I like programming because I am a natural problem solver. I prefer to program in Python with which I have four years of experience. I write concise and clean Pythonic code. I have a good understanding of functional and object oriented programming paradigms and use them extensively in my projects.
 
