@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mbm1607.visitor-badge&left_color=SlateBlue&right_color=Tomato&left_text=Profile%20Visits)
+
 # Introduction
 My name is Muhammad Khan. I am a Full-Stack developer and Mobile developer, currently studying for a Software Engineering degree from Virtual University.
 
@@ -13,5 +15,7 @@ I have adequate knowledge of relational databases and SQL. I am experienced with
 I am a self-motivated developer blessed with a healthy amount of curiosity and ambition. I am rational and logical and love a challenge. I am dedicated and always willing to go the extra mile to make my mark on the programming world.
 
 - 📫 MuhammadKhan1607@gmail.com
+
+# Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MBM1607?cardType=level&theme=dracula)](https://git.io/awesome-stats-card) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MBM1607&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
