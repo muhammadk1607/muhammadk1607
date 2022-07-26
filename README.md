@@ -16,6 +16,7 @@ I am a self-motivated developer blessed with a healthy amount of curiosity and a
 
 - 📫 MuhammadKhan1607@gmail.com
 
-# Stats
+# Github Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MBM1607?cardType=level&theme=dracula)](https://git.io/awesome-stats-card) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MBM1607&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MBM1607?cardType=level&theme=dracula&count_private=true&include_all_commits=true)](https://git.io/awesome-stats-card) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MBM1607&theme=dracula&date_format=j%20M%5B%20Y%5D&count_private=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBM1607&theme=dracula&card_width=950)](https://github.com/anuraghazra/github-readme-stats)
