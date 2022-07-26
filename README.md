@@ -13,3 +13,5 @@ I have adequate knowledge of relational databases and SQL. I am experienced with
 I am a self-motivated developer blessed with a healthy amount of curiosity and ambition. I am rational and logical and love a challenge. I am dedicated and always willing to go the extra mile to make my mark on the programming world.
 
 - 📫 MuhammadKhan1607@gmail.com
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MBM1607?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
