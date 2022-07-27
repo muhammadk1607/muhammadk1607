@@ -8,7 +8,7 @@
   I like programming because I am a natural problem solver. 
 </p>
 <p align='center'>
-  I am most familiar and experienced with Ruby on Rails framework with which I have three years of professional experience
+  I am most familiar and experienced with Ruby on Rails framework with which I have three years of professional experience.
   I’ve created a handful of web applications with Flask, FastApi, Django and Express.js. 
   I have adequate knowledge of relational databases. I have worked extensively with both NoSQL and SQL databases.
 </p>
