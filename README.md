@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mbm1607.visitor-badge&left_color=SlateBlue&right_color=Tomato&left_text=Profile%20Visits)
-
 # ✨ Hello, I am [Muhammad Khan](https://muhammadkhan.dev)✨
 
 I like programming because I am a natural problem solver.
