@@ -1,16 +1,6 @@
-# ✨ Hello, I am [Muhammad Khan](https://muhammadkhan.dev) ✨
+# ✨ Hey There ✨
 
-I like programming because I am a natural problem solver.
-
-I am most familiar and experienced with Ruby on Rails framework with which I have three years of professional experience.
-
-I’ve created a handful of web applications with Flask, FastApi, Django and Express.js.
-
-I have adequate knowledge of relational databases. I have worked extensively with both NoSQL and SQL databases.
-
-I am a self-motivated developer blessed with a healthy amount of curiosity and ambition. I am rational and logical and love a challenge.
-
-I am dedicated and always willing to go the extra mile to make my mark on the programming world.
+I strive for constant improvement in all things. Take a look through my work if you are interested in learning more.
 
 ***
 
