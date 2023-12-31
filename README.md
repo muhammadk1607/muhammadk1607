@@ -1,6 +1,6 @@
 # ✨ Hey There ✨
 
-I strive for constant improvement in all things. Take a look through my work if you are interested in learning more.
+I like getting my hands in all kinds of fields & love experimenting with new technologies. If you want to learn more about me, you can check my website at <https://muhammadkhan.dev/>.
 
 ***
 
