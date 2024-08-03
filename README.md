@@ -1,6 +1,6 @@
 # ✨ Hey There ✨
 
-I like to dabble in all things computer science & love experimenting with new technologies. If you want to learn more about me, you can check my website at <https://muhammadkhan.dev/>.
+I like to dabble in all things computer science & love experimenting with new technologies.
 
 ***
 
