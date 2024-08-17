@@ -2,6 +2,8 @@
 
 I like to dabble in all things computer science & love experimenting with new technologies.
 
+I specialize in Web Technologies, particularly in React, Node and Ruby on Rails.
+
 ***
 
 ## 📫 Reach me on
